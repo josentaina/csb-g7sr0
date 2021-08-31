@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://josentaina.github.io/csb-g7sr0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://josentaina.github.io/csb-g7sr0/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://josentaina.github.io/csb-g7sr0/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://josentaina.github.io/csb-g7sr0/static/js/runtime-main.c2f1cf4d.js",
+    "runtime-main.js.map": "https://josentaina.github.io/csb-g7sr0/static/js/runtime-main.c2f1cf4d.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://josentaina.github.io/csb-g7sr0/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://josentaina.github.io/csb-g7sr0/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://josentaina.github.io/csb-g7sr0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://josentaina.github.io/csb-g7sr0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://josentaina.github.io/csb-g7sr0/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2f1cf4d.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
